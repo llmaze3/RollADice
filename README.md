@@ -8,5 +8,5 @@ Write a program that rolls a dice 20 times.
 # How To Compile In MacOS Terminal
 
 - Type cd, moving to the directory of the file
-- To compile type: javac Restaurant.java
+- To compile type: javac RollDice.java
 - To execute type: java Restaurant
